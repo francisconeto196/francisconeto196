@@ -29,7 +29,7 @@
 ## 🇬🇧 About Me
 Zootechnician and **PhD candidate** at UNESP‑FMVZ (Botucatu, Brazil). I work on **ruminant nutrition**, **slow‑release urea technology**, and **meat quality**, combining **experimental design** and **data science** for sustainable production.
 
-- **PhD project:** Slow‑release urea encapsulated in soy wax for confined lambs.  
+- **PhD project:** Slow‑release urea encapsulated in vegetal wax for confined lambs.  
 - **Keywords:** rumen fermentation; carcass & meat quality; PCA; meta‑analysis; evidence synthesis.
 
 ### Featured Projects
@@ -60,8 +60,9 @@ Zootecnista y **doctorando** (UNESP‑FMVZ, Brasil). Trabajo con **nutrición de
 <details>
   <summary><b>📚 Publications (selected)</b></summary>
 
-- *Benefits of eating meat sheep to human health.* **Revista Brasileira de Zootecnia**, 2012.  
-- *Effects of additives in wet brewery residue silage on lamb carcass traits and meat quality.* **Tropical Animal Health and Production**, 2020.  
+- *Benefits of eating meat sheep to human health.* **FÓRUM AMBIENTAL DA ALTA PAULISTA**, 2024.  
+- *Effects of additives in wet brewery residue silage on lamb carcass traits and meat quality.* **Tropical Animal Health and Production**, 2021.
+- *Impact of diets containing spineless cactus associated with lipid sources or levels of urea on physiological parameters of lambs: preliminary studies.* **ARQUIVO BRASILEIRO DE MEDICINA VETERINÁRIA E ZOOTECNIA **, 2024.  
 - *Ongoing:* manuscripts on **slow‑release urea microencapsulation**, **meat quality**, and **systematic review/meta‑analysis.**
 </details>
 
